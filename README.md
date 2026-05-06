@@ -95,6 +95,7 @@ YYYY-MM-DD HH:MM:SS - New MKV file: filename.mkv, Size: [bytes] bytes
 
 | Version | Notes |
 |---------|-------|
+| v1.3 | Added inotifywait install check, added log directory auto-creation |
 | v1.2 | Added stat error handling, fixed size variable declaration, improved MKV case matching |
 | v1.1 | Added recursive watching, close_write detection, .MKV case fix, basename error handling |
 | v1.0 | Initial release - basic MKV detection and logging |

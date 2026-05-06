@@ -95,6 +95,7 @@ YYYY-MM-DD HH:MM:SS - New MKV file: filename.mkv, Size: [bytes] bytes
 
 | Version | Notes |
 |---------|-------|
+| v1.5 | Added umask, signal handling, watch limit check, printf logging, control character stripping, log rotation, exit code check |
 | v1.4 | Added restart loop, watch directory recovery, timestamps on error messages |
 | v1.3 | Added inotifywait install check, added log directory auto-creation |
 | v1.2 | Added stat error handling, fixed size variable declaration, improved MKV case matching |

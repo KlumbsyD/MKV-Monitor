@@ -34,14 +34,14 @@ installpkg inotify-tools
 
 Save `MKV_Monitorv-v1.sh` to your Unraid server. A good location is:
 ```
-/mnt/user/appdata/mkv-monitor/MKV_Monitorv-v1.sh
+/mnt/user/appdata/mkv-monitor/MKV_Monitor-v1.sh
 ```
 
 **2. Make it executable**
 
 In terminal, run:
 ```bash
-chmod +x /mnt/user/appdata/mkv-monitor/MKV_Monitorv-v1.sh
+chmod +x /mnt/user/appdata/mkv-monitor/MKV_Monitor-v1.sh
 ```
 
 **3. Edit the paths**

@@ -95,6 +95,7 @@ YYYY-MM-DD HH:MM:SS - New MKV file: filename.mkv, Size: [bytes] bytes
 
 | Version | Notes |
 |---------|-------|
+| v1.1 | Added recursive watching, close_write detection, .MKV case fix, basename error handling |
 | v1.0 | Initial release - basic MKV detection and logging |
 
 ---
